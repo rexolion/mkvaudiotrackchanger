@@ -1,4 +1,4 @@
-# MKV Audio Track Changer Script
+# MKV Multiple Audio Track Changer Script
 
 This Bash script allows you to change the audio track of MKV files in a specified directory using `mkvmerge`. You can provide the target directory and the desired audio track number as command-line arguments.
 
